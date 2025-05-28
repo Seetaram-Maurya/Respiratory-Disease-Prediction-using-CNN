@@ -1,0 +1,1 @@
+Developed a model for predicting respiratory diseases using auscultation sound data. Extracted time-frequency features (Spectrogram and MFCC) from raw audio and trained a Convolutional Neural Network (CNN) for disease classification. Validated the model's effectiveness on the ICBHI dataset, addressing diagnostic limitations in clinical practice.
